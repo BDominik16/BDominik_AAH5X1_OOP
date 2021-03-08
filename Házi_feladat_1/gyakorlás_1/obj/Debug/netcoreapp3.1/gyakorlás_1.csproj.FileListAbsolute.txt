@@ -1,0 +1,13 @@
+C:\Domi programok\gyakorlás_1\gyakorlás_1\bin\Debug\netcoreapp3.1\gyakorlás_1.exe
+C:\Domi programok\gyakorlás_1\gyakorlás_1\bin\Debug\netcoreapp3.1\gyakorlás_1.deps.json
+C:\Domi programok\gyakorlás_1\gyakorlás_1\bin\Debug\netcoreapp3.1\gyakorlás_1.runtimeconfig.json
+C:\Domi programok\gyakorlás_1\gyakorlás_1\bin\Debug\netcoreapp3.1\gyakorlás_1.runtimeconfig.dev.json
+C:\Domi programok\gyakorlás_1\gyakorlás_1\bin\Debug\netcoreapp3.1\gyakorlás_1.dll
+C:\Domi programok\gyakorlás_1\gyakorlás_1\bin\Debug\netcoreapp3.1\gyakorlás_1.pdb
+C:\Domi programok\gyakorlás_1\gyakorlás_1\obj\Debug\netcoreapp3.1\gyakorlás_1.csprojAssemblyReference.cache
+C:\Domi programok\gyakorlás_1\gyakorlás_1\obj\Debug\netcoreapp3.1\gyakorlás_1.AssemblyInfoInputs.cache
+C:\Domi programok\gyakorlás_1\gyakorlás_1\obj\Debug\netcoreapp3.1\gyakorlás_1.AssemblyInfo.cs
+C:\Domi programok\gyakorlás_1\gyakorlás_1\obj\Debug\netcoreapp3.1\gyakorlás_1.csproj.CoreCompileInputs.cache
+C:\Domi programok\gyakorlás_1\gyakorlás_1\obj\Debug\netcoreapp3.1\gyakorlás_1.dll
+C:\Domi programok\gyakorlás_1\gyakorlás_1\obj\Debug\netcoreapp3.1\gyakorlás_1.pdb
+C:\Domi programok\gyakorlás_1\gyakorlás_1\obj\Debug\netcoreapp3.1\gyakorlás_1.genruntimeconfig.cache
