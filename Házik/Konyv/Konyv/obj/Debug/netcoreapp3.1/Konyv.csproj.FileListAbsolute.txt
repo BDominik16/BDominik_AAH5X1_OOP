@@ -1,0 +1,13 @@
+C:\Domi programok\Konyv\Konyv\bin\Debug\netcoreapp3.1\Konyv.exe
+C:\Domi programok\Konyv\Konyv\bin\Debug\netcoreapp3.1\Konyv.deps.json
+C:\Domi programok\Konyv\Konyv\bin\Debug\netcoreapp3.1\Konyv.runtimeconfig.json
+C:\Domi programok\Konyv\Konyv\bin\Debug\netcoreapp3.1\Konyv.runtimeconfig.dev.json
+C:\Domi programok\Konyv\Konyv\bin\Debug\netcoreapp3.1\Konyv.dll
+C:\Domi programok\Konyv\Konyv\bin\Debug\netcoreapp3.1\Konyv.pdb
+C:\Domi programok\Konyv\Konyv\obj\Debug\netcoreapp3.1\Konyv.csprojAssemblyReference.cache
+C:\Domi programok\Konyv\Konyv\obj\Debug\netcoreapp3.1\Konyv.AssemblyInfoInputs.cache
+C:\Domi programok\Konyv\Konyv\obj\Debug\netcoreapp3.1\Konyv.AssemblyInfo.cs
+C:\Domi programok\Konyv\Konyv\obj\Debug\netcoreapp3.1\Konyv.csproj.CoreCompileInputs.cache
+C:\Domi programok\Konyv\Konyv\obj\Debug\netcoreapp3.1\Konyv.dll
+C:\Domi programok\Konyv\Konyv\obj\Debug\netcoreapp3.1\Konyv.pdb
+C:\Domi programok\Konyv\Konyv\obj\Debug\netcoreapp3.1\Konyv.genruntimeconfig.cache

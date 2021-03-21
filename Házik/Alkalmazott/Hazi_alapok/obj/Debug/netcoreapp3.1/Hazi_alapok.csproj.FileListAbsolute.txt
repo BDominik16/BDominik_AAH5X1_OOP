@@ -1,0 +1,13 @@
+C:\Domi programok\Hazi_alapok\Hazi_alapok\obj\Debug\netcoreapp3.1\Hazi_alapok.csprojAssemblyReference.cache
+C:\Domi programok\Hazi_alapok\Hazi_alapok\obj\Debug\netcoreapp3.1\Hazi_alapok.AssemblyInfoInputs.cache
+C:\Domi programok\Hazi_alapok\Hazi_alapok\obj\Debug\netcoreapp3.1\Hazi_alapok.AssemblyInfo.cs
+C:\Domi programok\Hazi_alapok\Hazi_alapok\obj\Debug\netcoreapp3.1\Hazi_alapok.csproj.CoreCompileInputs.cache
+C:\Domi programok\Hazi_alapok\Hazi_alapok\bin\Debug\netcoreapp3.1\Hazi_alapok.exe
+C:\Domi programok\Hazi_alapok\Hazi_alapok\bin\Debug\netcoreapp3.1\Hazi_alapok.deps.json
+C:\Domi programok\Hazi_alapok\Hazi_alapok\bin\Debug\netcoreapp3.1\Hazi_alapok.runtimeconfig.json
+C:\Domi programok\Hazi_alapok\Hazi_alapok\bin\Debug\netcoreapp3.1\Hazi_alapok.runtimeconfig.dev.json
+C:\Domi programok\Hazi_alapok\Hazi_alapok\bin\Debug\netcoreapp3.1\Hazi_alapok.dll
+C:\Domi programok\Hazi_alapok\Hazi_alapok\bin\Debug\netcoreapp3.1\Hazi_alapok.pdb
+C:\Domi programok\Hazi_alapok\Hazi_alapok\obj\Debug\netcoreapp3.1\Hazi_alapok.dll
+C:\Domi programok\Hazi_alapok\Hazi_alapok\obj\Debug\netcoreapp3.1\Hazi_alapok.pdb
+C:\Domi programok\Hazi_alapok\Hazi_alapok\obj\Debug\netcoreapp3.1\Hazi_alapok.genruntimeconfig.cache
